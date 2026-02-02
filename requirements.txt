@@ -1,0 +1,2 @@
+# Requires: phantom-threshold
+# (Not available on PyPI)
